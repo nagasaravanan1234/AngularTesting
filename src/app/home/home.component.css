@@ -1,7 +1,16 @@
-.submit-btn{
-    color: white;
-    background-color: #3c3cffdb;
+.btns{
     border: none;
     padding: 8px;
     border-radius: 5px;
+}
+
+.submit-btn{
+    color: white;
+    background-color: #3c3cffdb;
+    margin-right: 8px;
+}
+
+.cancel-btn{
+    color: white;
+    background-color: #3c3cffdb;
 }
